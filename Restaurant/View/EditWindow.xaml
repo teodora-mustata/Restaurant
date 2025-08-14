@@ -1,0 +1,29 @@
+﻿<Window x:Class="Restaurant.View.EditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Restaurant.View"
+        mc:Ignorable="d"
+        Title="EditWindow" Height="350" Width="300">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/login_background.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+        <RowDefinition Height="Auto"/>
+        <RowDefinition Height="Auto"/>
+        <RowDefinition Height="Auto"/>
+        <RowDefinition Height="Auto"/>
+        <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Button Content="Edit ingredients" FontWeight="Bold"  Grid.Row="0" Margin="0,10" Height="40" Background="White" Click="EditIngredientsButton_Click"/>
+        <Button Content="Edit allergens" FontWeight="Bold"  Grid.Row="1" Margin="0,10" Height="40" Background="White" Click="EditAllergensButton_Click"/>
+        <Button Content="Edit categories" FontWeight="Bold"  Grid.Row="2" Margin="0,10" Height="40" Background="White" Click="EditCategoriesButton_Click"/>
+        <Button Content="Edit products" FontWeight="Bold"  Grid.Row="3" Margin="0,10" Height="40" Background="White" Click="EditProductsButton_Click"/>
+        <Button Content="Edit bundles" FontWeight="Bold"  Grid.Row="4" Margin="0,10" Height="40" Background="White" Click="EditBundlesButton_Click"/>
+        
+    </Grid>
+</Window>

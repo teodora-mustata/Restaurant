@@ -1,0 +1,1133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\database\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\database\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\database\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\database\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\database\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\database\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\database\\allergenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\database\\allergenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\orderdiscountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\orderdiscountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\listboxselecteditemsbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\listboxselecteditemsbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\showemployeeorderhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\showemployeeorderhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\showemployeeorderhistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\showemployeeorderhistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\showmenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\showmenuwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\editproductswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\editproductswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\viewmodel\\editproductsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\viewmodel\\editproductsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\editwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\editwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\model\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\model\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\viewmodel\\showemployeeorderhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\viewmodel\\showemployeeorderhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\orderitemtotextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\orderitemtotextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\showclientorderhistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\showclientorderhistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\database\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\database\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\userfromidconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\userfromidconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\viewmodel\\showmenuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\viewmodel\\showmenuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\database\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\database\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\viewmodel\\showclientorderhistoryviewmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\viewmodel\\showclientorderhistoryviewmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\showclientorderhistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\showclientorderhistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\menuitemtemplateselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\menuitemtemplateselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\viewmodel\\editbundlesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\viewmodel\\editbundlesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\model\\bundle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\model\\bundle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\viewmodel\\editallergensviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\viewmodel\\editallergensviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\showmenuwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\showmenuwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\model\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\model\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\database\\bundleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\database\\bundleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\model\\bundleproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\model\\bundleproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\editbundleswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\editbundleswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\restaurant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\restaurant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\model\\allergen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\model\\allergen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\lowstockproductswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\lowstockproductswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\viewmodel\\editcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\viewmodel\\editcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\viewmodel\\editingredientsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\viewmodel\\editingredientsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\viewmodel\\lowstockproductsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\viewmodel\\lowstockproductsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\lowstockproductswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\lowstockproductswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\editingredientswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\editingredientswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\editallergenswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\editallergenswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\editcategorieswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\editcategorieswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Teodora\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\editbundleswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\editbundleswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\editwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\editwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\database\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\database\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\editproductswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\editproductswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\editcategorieswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\editcategorieswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\editallergenswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\editallergenswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\editingredientswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\editingredientswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\createaccountwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\createaccountwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\viewmodel\\createaccountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\viewmodel\\createaccountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\view\\createaccountwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\view\\createaccountwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\images\\background.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\images\\background.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|c:\\users\\teodora\\desktop\\facultate\\y2s2\\map\\restaurant\\restaurant\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9E16424-C1B8-472E-B6C7-6FC1474D3E17}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "config.txt",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\config.txt",
+              "RelativeDocumentMoniker": "Restaurant\\config.txt",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\config.txt",
+              "RelativeToolTip": "Restaurant\\config.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-07T11:43:11.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDiscountManager.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\OrderDiscountManager.cs",
+              "RelativeDocumentMoniker": "Restaurant\\OrderDiscountManager.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\OrderDiscountManager.cs",
+              "RelativeToolTip": "Restaurant\\OrderDiscountManager.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:38:13.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListBoxSelectedItemsBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ListBoxSelectedItemsBehavior.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ListBoxSelectedItemsBehavior.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ListBoxSelectedItemsBehavior.cs",
+              "RelativeToolTip": "Restaurant\\ListBoxSelectedItemsBehavior.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:30:20.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\Order.cs",
+              "RelativeToolTip": "Restaurant\\Model\\Order.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:15:20.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Model\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\OrderItem.cs",
+              "RelativeToolTip": "Restaurant\\Model\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:28:24.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllergenService.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\AllergenService.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Database\\AllergenService.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\AllergenService.cs",
+              "RelativeToolTip": "Restaurant\\Database\\AllergenService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:40:31.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\ProductService.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Database\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\ProductService.cs",
+              "RelativeToolTip": "Restaurant\\Database\\ProductService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:52:24.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Database\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\CategoryService.cs",
+              "RelativeToolTip": "Restaurant\\Database\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:40:48.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Database\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\DatabaseHelper.cs",
+              "RelativeToolTip": "Restaurant\\Database\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:44:51.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Restaurant\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T15:02:38.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "Restaurant\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:03:23.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShowEmployeeOrderHistory.xaml",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\ShowEmployeeOrderHistory.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\View\\ShowEmployeeOrderHistory.xaml",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\ShowEmployeeOrderHistory.xaml",
+              "RelativeToolTip": "Restaurant\\View\\ShowEmployeeOrderHistory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T15:23:30.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShowEmployeeOrderHistory.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\ShowEmployeeOrderHistory.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\View\\ShowEmployeeOrderHistory.xaml.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\ShowEmployeeOrderHistory.xaml.cs",
+              "RelativeToolTip": "Restaurant\\View\\ShowEmployeeOrderHistory.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:01:53.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShowMenuWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\ShowMenuWindow.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\View\\ShowMenuWindow.xaml",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\ShowMenuWindow.xaml",
+              "RelativeToolTip": "Restaurant\\View\\ShowMenuWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T19:31:34.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\Product.cs",
+              "RelativeToolTip": "Restaurant\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:50:46.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditWindow.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\View\\EditWindow.xaml",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditWindow.xaml",
+              "RelativeToolTip": "Restaurant\\View\\EditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T20:44:37.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserFromIdConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\UserFromIdConverter.cs",
+              "RelativeDocumentMoniker": "Restaurant\\UserFromIdConverter.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\UserFromIdConverter.cs",
+              "RelativeToolTip": "Restaurant\\UserFromIdConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:00:21.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditProductsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditProductsWindow.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\View\\EditProductsWindow.xaml",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditProductsWindow.xaml",
+              "RelativeToolTip": "Restaurant\\View\\EditProductsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-02T22:07:02.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditProductsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\EditProductsViewModel.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ViewModel\\EditProductsViewModel.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\EditProductsViewModel.cs",
+              "RelativeToolTip": "Restaurant\\ViewModel\\EditProductsViewModel.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAuwKkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:58:46.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderItemToTextConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\OrderItemToTextConverter.cs",
+              "RelativeDocumentMoniker": "Restaurant\\OrderItemToTextConverter.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\OrderItemToTextConverter.cs",
+              "RelativeToolTip": "Restaurant\\OrderItemToTextConverter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:20:14.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShowEmployeeOrderHistoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\ShowEmployeeOrderHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ViewModel\\ShowEmployeeOrderHistoryViewModel.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\ShowEmployeeOrderHistoryViewModel.cs",
+              "RelativeToolTip": "Restaurant\\ViewModel\\ShowEmployeeOrderHistoryViewModel.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwEoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:39:56.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Model\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\Ingredient.cs",
+              "RelativeToolTip": "Restaurant\\Model\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:54:48.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Restaurant\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwIMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:05:27.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShowClientOrderHistoryWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\ShowClientOrderHistoryWindow.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\View\\ShowClientOrderHistoryWindow.xaml",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\ShowClientOrderHistoryWindow.xaml",
+              "RelativeToolTip": "Restaurant\\View\\ShowClientOrderHistoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T16:15:58.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\UserService.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Database\\UserService.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\UserService.cs",
+              "RelativeToolTip": "Restaurant\\Database\\UserService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwEwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:43:59.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\OrderService.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Database\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\OrderService.cs",
+              "RelativeToolTip": "Restaurant\\Database\\OrderService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAjwGEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:13:39.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ShowClientOrderHistoryViewModell.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\ShowClientOrderHistoryViewModell.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ViewModel\\ShowClientOrderHistoryViewModell.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\ShowClientOrderHistoryViewModell.cs",
+              "RelativeToolTip": "Restaurant\\ViewModel\\ShowClientOrderHistoryViewModell.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAE8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:48:38.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\User.cs",
+              "RelativeToolTip": "Restaurant\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:34:16.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShowMenuViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\ShowMenuViewModel.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ViewModel\\ShowMenuViewModel.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\ShowMenuViewModel.cs",
+              "RelativeToolTip": "Restaurant\\ViewModel\\ShowMenuViewModel.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAmwGABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:34:59.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShowClientOrderHistoryWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\ShowClientOrderHistoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\View\\ShowClientOrderHistoryWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\ShowClientOrderHistoryWindow.xaml.cs",
+              "RelativeToolTip": "Restaurant\\View\\ShowClientOrderHistoryWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:52:04.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EditBundlesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\EditBundlesViewModel.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ViewModel\\EditBundlesViewModel.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\EditBundlesViewModel.cs",
+              "RelativeToolTip": "Restaurant\\ViewModel\\EditBundlesViewModel.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:43:21.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Bundle.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\Bundle.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Model\\Bundle.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\Bundle.cs",
+              "RelativeToolTip": "Restaurant\\Model\\Bundle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:51:50.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MenuItemTemplateSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\MenuItemTemplateSelector.cs",
+              "RelativeDocumentMoniker": "Restaurant\\MenuItemTemplateSelector.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\MenuItemTemplateSelector.cs",
+              "RelativeToolTip": "Restaurant\\MenuItemTemplateSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:11:38.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditAllergensViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\EditAllergensViewModel.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ViewModel\\EditAllergensViewModel.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\EditAllergensViewModel.cs",
+              "RelativeToolTip": "Restaurant\\ViewModel\\EditAllergensViewModel.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:56:34.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Utility.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Utility.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Utility.cs",
+              "RelativeToolTip": "Restaurant\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:18:21.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ShowMenuWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\ShowMenuWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\View\\ShowMenuWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\ShowMenuWindow.xaml.cs",
+              "RelativeToolTip": "Restaurant\\View\\ShowMenuWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:45:40.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\Session.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Model\\Session.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\Session.cs",
+              "RelativeToolTip": "Restaurant\\Model\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:59:29.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BundleService.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\BundleService.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Database\\BundleService.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\BundleService.cs",
+              "RelativeToolTip": "Restaurant\\Database\\BundleService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:24:17.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\Category.cs",
+              "RelativeToolTip": "Restaurant\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:50:32.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BundleProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\BundleProduct.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Model\\BundleProduct.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\BundleProduct.cs",
+              "RelativeToolTip": "Restaurant\\Model\\BundleProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:52:08.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Restaurant\\BoolToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "Restaurant\\BoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:29:11.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ViewModel\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\RelayCommand.cs",
+              "RelativeToolTip": "Restaurant\\ViewModel\\RelayCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:42:24.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EditBundlesWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditBundlesWindow.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\View\\EditBundlesWindow.xaml",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditBundlesWindow.xaml",
+              "RelativeToolTip": "Restaurant\\View\\EditBundlesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T00:18:50.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Restaurant.csproj",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Restaurant.csproj",
+              "RelativeDocumentMoniker": "Restaurant\\Restaurant.csproj",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Restaurant.csproj",
+              "RelativeToolTip": "Restaurant\\Restaurant.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T15:00:51.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\View\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\LoginWindow.xaml",
+              "RelativeToolTip": "Restaurant\\View\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T05:54:41.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Allergen.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\Allergen.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Model\\Allergen.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Model\\Allergen.cs",
+              "RelativeToolTip": "Restaurant\\Model\\Allergen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:54:39.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LowStockProductsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\LowStockProductsWindow.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\View\\LowStockProductsWindow.xaml",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\LowStockProductsWindow.xaml",
+              "RelativeToolTip": "Restaurant\\View\\LowStockProductsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T11:39:25.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EditIngredientsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\EditIngredientsViewModel.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ViewModel\\EditIngredientsViewModel.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\EditIngredientsViewModel.cs",
+              "RelativeToolTip": "Restaurant\\ViewModel\\EditIngredientsViewModel.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:34:44.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EditCategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\EditCategoryViewModel.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ViewModel\\EditCategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\EditCategoryViewModel.cs",
+              "RelativeToolTip": "Restaurant\\ViewModel\\EditCategoryViewModel.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswEMAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:11:15.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LowStockProductsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\LowStockProductsViewModel.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ViewModel\\LowStockProductsViewModel.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\LowStockProductsViewModel.cs",
+              "RelativeToolTip": "Restaurant\\ViewModel\\LowStockProductsViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:41:07.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LowStockProductsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\LowStockProductsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\View\\LowStockProductsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\LowStockProductsWindow.xaml.cs",
+              "RelativeToolTip": "Restaurant\\View\\LowStockProductsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:50:55.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EditIngredientsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditIngredientsWindow.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\View\\EditIngredientsWindow.xaml",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditIngredientsWindow.xaml",
+              "RelativeToolTip": "Restaurant\\View\\EditIngredientsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T20:49:18.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "Restaurant\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:56:24.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EditAllergensWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditAllergensWindow.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\View\\EditAllergensWindow.xaml",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditAllergensWindow.xaml",
+              "RelativeToolTip": "Restaurant\\View\\EditAllergensWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T23:54:49.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "EditCategoriesWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditCategoriesWindow.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\View\\EditCategoriesWindow.xaml",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditCategoriesWindow.xaml",
+              "RelativeToolTip": "Restaurant\\View\\EditCategoriesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-01T00:08:11.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\Teodora\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAJ0BAAAAAAAAAAAwwLMBAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:03:04.186Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EditBundlesWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditBundlesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\View\\EditBundlesWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditBundlesWindow.xaml.cs",
+              "RelativeToolTip": "Restaurant\\View\\EditBundlesWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:34:45.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\View\\EditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditWindow.xaml.cs",
+              "RelativeToolTip": "Restaurant\\View\\EditWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:53:05.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IngredientService.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\IngredientService.cs",
+              "RelativeDocumentMoniker": "Restaurant\\Database\\IngredientService.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Database\\IngredientService.cs",
+              "RelativeToolTip": "Restaurant\\Database\\IngredientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:39:20.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EditProductsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditProductsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\View\\EditProductsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditProductsWindow.xaml.cs",
+              "RelativeToolTip": "Restaurant\\View\\EditProductsWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:00:19.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "EditCategoriesWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditCategoriesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\View\\EditCategoriesWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditCategoriesWindow.xaml.cs",
+              "RelativeToolTip": "Restaurant\\View\\EditCategoriesWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:12:00.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "EditAllergensWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditAllergensWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\View\\EditAllergensWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditAllergensWindow.xaml.cs",
+              "RelativeToolTip": "Restaurant\\View\\EditAllergensWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:55:20.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "EditIngredientsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditIngredientsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\View\\EditIngredientsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\EditIngredientsWindow.xaml.cs",
+              "RelativeToolTip": "Restaurant\\View\\EditIngredientsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:33:26.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CreateAccountWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\CreateAccountWindow.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\View\\CreateAccountWindow.xaml",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\CreateAccountWindow.xaml",
+              "RelativeToolTip": "Restaurant\\View\\CreateAccountWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T05:27:14.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\View\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Restaurant\\View\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:57:24.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CreateAccountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\CreateAccountViewModel.cs",
+              "RelativeDocumentMoniker": "Restaurant\\ViewModel\\CreateAccountViewModel.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\ViewModel\\CreateAccountViewModel.cs",
+              "RelativeToolTip": "Restaurant\\ViewModel\\CreateAccountViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA9wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:38:34.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CreateAccountWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\CreateAccountWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Restaurant\\View\\CreateAccountWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\View\\CreateAccountWindow.xaml.cs",
+              "RelativeToolTip": "Restaurant\\View\\CreateAccountWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:33:11.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "background.jpg",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Images\\background.jpg",
+              "RelativeDocumentMoniker": "Restaurant\\Images\\background.jpg",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\Images\\background.jpg",
+              "RelativeToolTip": "Restaurant\\Images\\background.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-27T15:26:58.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\App.xaml",
+              "RelativeDocumentMoniker": "Restaurant\\App.xaml",
+              "ToolTip": "C:\\Users\\Teodora\\Desktop\\FACULTATE\\Y2S2\\MAP\\Restaurant\\Restaurant\\App.xaml",
+              "RelativeToolTip": "Restaurant\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T15:01:17.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

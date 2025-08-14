@@ -1,0 +1,33 @@
+﻿<Window x:Class="Restaurant.View.EditAllergensWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Restaurant.View"
+        mc:Ignorable="d"
+        Title="EditAllergensWindow" Height="450" Width="800">
+    <Grid>
+        <Grid Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <ListBox ItemsSource="{Binding Allergens}"
+                     SelectedItem="{Binding SelectedAllergen, Mode=TwoWay}"
+                     DisplayMemberPath="Name"
+                     Grid.Row="0" Margin="0,0,0,10" />
+
+            <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBox Text="{Binding AllergenName, Mode=TwoWay}" Width="180" Margin="0,0,10,0"/>
+                <Button Content="Save changes" Width="80" Command="{Binding UpdateAllergenCommand}" />
+                <Button Content="Delete" Width="80" Margin="10,0,0,0" Command="{Binding DeleteAllergenCommand}" />
+            </StackPanel>
+
+            <Button Content="Add New Allergen"
+                    Grid.Row="2" Height="40" Background="LightGreen"
+                    Command="{Binding AddAllergenCommand}" />
+        </Grid>
+    </Grid>
+</Window>

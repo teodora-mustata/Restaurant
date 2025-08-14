@@ -1,0 +1,9 @@
+﻿BundleDiscount=0.2
+LowStockMultiplier=3
+DeliveryFee=15.99
+MinOrderForFreeDelivery=100.00
+MinOrderForValueDiscount=200.00
+ValueDiscountPercentage=0.2
+MinOrdersInTimeframeForDiscount=3
+TimeframeForOrderCountDiscount=2.00:00:00
+OrderCountDiscountPercentage=0.2
