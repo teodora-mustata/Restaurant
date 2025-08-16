@@ -7,15 +7,41 @@ A desktop application for managing a restaurant with online ordering. Built with
 
 🚀 Features
 
-Browse and search restaurant menu (by name, category, allergens).
+🔵 For Customers:
 
-Customer accounts: register, log in, place and track orders.
+Browse restaurant menu with categories, images, prices, allergens, and availability.
 
-Employee accounts: manage menu items, allergens, and orders.
+Advanced search & filtering by name or allergens.
 
-Automatic stock updates, discounts, and delivery fees based on rules.
+Account creation, login, and profile management.
 
-Reports and inventory monitoring.
+Place food orders with multiple items and quantities.
+
+Track order status in real-time (registered, preparing, out for delivery, delivered, canceled).
+
+View and manage order history, including cancellation of active orders.
+
+
+🟠 For Employees:
+
+Full CRUD operations for categories, dishes, menus, and allergens.
+
+Manage orders: update statuses, view details, and customer information.
+
+Generate and view reports for inventory and orders.
+
+Monitor dishes running low in stock.
+
+
+🟡 Business Logic:
+
+Configurable discounts based on order value or frequency.
+
+Delivery charges for small orders (configurable).
+
+Automatic stock updates after orders are placed.
+
+Support for menu combinations with dynamic price calculations.
 
 
 🛠️ Technologies used
